@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508607275 source:c:\users\user\documents\dekadiko-dyadiko\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508606076 source:c:\users\kosats\documents\Μαθηματα\Βασικες Αρχες Προγραμματισμου\programms c\Ασκησεις - Εργασιες\dekadiko-dyadiko\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
