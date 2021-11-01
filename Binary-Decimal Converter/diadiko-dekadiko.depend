@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508611067 source:c:\users\user\documents\diadiko-dekadiko\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
