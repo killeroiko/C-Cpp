@@ -1,4 +1,4 @@
-# C-Projects
+# C/C++ Projects
 Small programs and examples written in C programming language
 
 Some projects might have Greek dialogue, if you aren't familiar with Greek you can ignore those
