@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\kosats\documents\hashtable\main.cpp
+	<iostream>
+
+1526466109 source:c:\users\kosats\documents\hashtable\src\hashnode.cpp
+	"HashNode.h"
+
+1526466109 c:\users\kosats\documents\hashtable\include\hashnode.h
+
+1446671344 source:c:\users\kosats\documents\c++ project\hashtable\main.cpp
+	<iostream>
+
+1526466109 source:c:\users\kosats\documents\c++ project\hashtable\src\hashnode.cpp
+	"HashNode.h"
+
+1526466109 c:\users\kosats\documents\c++ project\hashtable\include\hashnode.h
+

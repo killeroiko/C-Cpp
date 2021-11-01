@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\kosats\documents\avl tree\main.cpp
+	<iostream>
+
+1526052735 source:c:\users\kosats\documents\avl tree\src\avltree.cpp
+	"avlTree.h"
+	<iostream>
+	<cstdio>
+	<sstream>
+	<algorithm>
+
+1526053100 c:\users\kosats\documents\avl tree\include\avltree.h
+	<iostream>
+	<cstdio>
+	<sstream>
+	<algorithm>
+

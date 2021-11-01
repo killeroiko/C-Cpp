@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\kosats\documents\array\main.cpp
+	<iostream>
+
+1526040269 source:c:\users\kosats\documents\array\src\array.cpp
+	"Array.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1526040269 c:\users\kosats\documents\array\include\array.h
+
