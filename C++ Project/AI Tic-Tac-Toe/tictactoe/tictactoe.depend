@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521109651 source:c:\users\dimitris\documents\courses\ai\examples\tictactoe\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+
+1521110616 source:c:\users\kosats\documents\Μαθηματα\Τεχνητη Νοημοσυνη\tictactoe\tictactoe\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+
