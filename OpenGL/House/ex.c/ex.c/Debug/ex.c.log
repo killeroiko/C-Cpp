@@ -1,0 +1,35 @@
+﻿Build started 17/7/2020 2:51:42 μμ.
+     1>Project "C:\Users\kosats\Documents\Μαθηματα\Γραφικα\Εργασιες\ergasia3_2020\ex.c\ex.c\ex.c.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\ex.c.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(45): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(46): error C2275: 'point2' : illegal use of this type as an expression
+                 c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(34) : see declaration of 'point2'
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(46): error C2146: syntax error : missing ';' before identifier 'p'
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(46): error C2065: 'p' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(46): error C2059: syntax error : '{'
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(53): error C2065: 'k' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(53): error C2065: 'k' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(53): error C2065: 'k' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(55): error C2065: 'j' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(60): error C2065: 'p' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(60): error C2109: subscript requires array or pointer type
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(60): error C2065: 'p' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(60): error C2109: subscript requires array or pointer type
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(60): error C2065: 'j' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(61): error C2065: 'p' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(61): error C2109: subscript requires array or pointer type
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(61): error C2065: 'p' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(61): error C2109: subscript requires array or pointer type
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(61): error C2065: 'j' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(66): error C2065: 'p' : undeclared identifier
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(66): warning C4047: 'function' : 'const GLfloat *' differs in levels of indirection from 'int'
+     1>c:\users\kosats\documents\μαθηματα\γραφικα\εργασιες\ergasia3_2020\ex.c\ex.c\main.c(66): warning C4024: 'glVertex2fv' : different types for formal and actual parameter 1
+     1>Done Building Project "C:\Users\kosats\Documents\Μαθηματα\Γραφικα\Εργασιες\ergasia3_2020\ex.c\ex.c\ex.c.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.22
